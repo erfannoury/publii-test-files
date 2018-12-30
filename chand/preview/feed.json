@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Chand",
+    "description": "",
+    "home_page_url": "file:///Users/erfannoury/Documents/Publii/sites/chand/preview",
+    "feed_url": "file:///Users/erfannoury/Documents/Publii/sites/chand/preview/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Erfan"
+    },
+    "items": [
+        {
+            "id": "file:///Users/erfannoury/Documents/Publii/sites/chand/preview/test.html",
+            "url": "file:///Users/erfannoury/Documents/Publii/sites/chand/preview/test.html",
+            "title": "Test",
+            "summary": "In the name of God. This is a test post. به نام&hellip;",
+            "content_html": "<p>In the name of God.</p>\n<p> </p>\n<p>This is a test post.</p>\n<p>به نام خدا. این یک پست آزمایشی است.</p>",
+            "image": "file:///Users/erfannoury/Documents/Publii/sites/chand/preview/media/posts/1/",
+            "author": {
+                "name": "Erfan"
+            },
+            "tags": [
+            ],
+            "date_published": "2018-12-30T04:15:43-05:00",
+            "date_modified": "2018-12-30T04:18:59-05:00"
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Chand",
+    "description": "",
+    "home_page_url": "https://erfannoury.github.io/publii-test",
+    "feed_url": "https://erfannoury.github.io/publii-test/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Erfan"
+    },
+    "items": [
+        {
+            "id": "https://erfannoury.github.io/publii-test/test.html",
+            "url": "https://erfannoury.github.io/publii-test/test.html",
+            "title": "Test",
+            "summary": "In the name of God. This is a test post. به نام&hellip;",
+            "content_html": "<p>In the name of God.</p>\n<p> </p>\n<p>This is a test post.</p>\n<p>به نام خدا. این یک پست آزمایشی است.</p>",
+            "image": "https://erfannoury.github.io/publii-test/media/posts/1/",
+            "author": {
+                "name": "Erfan"
+            },
+            "tags": [
+            ],
+            "date_published": "2018-12-30T04:15:43-05:00",
+            "date_modified": "2018-12-30T04:18:59-05:00"
+        }
+    ]
+}

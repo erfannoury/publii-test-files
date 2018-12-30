@@ -1,0 +1,11 @@
+/*
+ * Put your custom CSS code here
+ */
+.ltr {
+  text-align: left;
+  direction: ltr;
+}
+.rtl {
+  text-align: right;
+  direction: rtl;
+}
